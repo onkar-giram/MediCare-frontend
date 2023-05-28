@@ -1,0 +1,16 @@
+{
+  "/_error": "pages/_error.js",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/admin/[location]": "pages/admin/[location].html",
+  "/admin": "pages/admin.html",
+  "/api/constants": "pages/api/constants.js",
+  "/doctor/[location]": "pages/doctor/[location].html",
+  "/doctor": "pages/doctor.html",
+  "/": "pages/index.html",
+  "/patient/[location]": "pages/patient/[location].html",
+  "/patient": "pages/patient.html",
+  "/register": "pages/register.html",
+  "/testpage": "pages/testpage.html",
+  "/404": "pages/404.html"
+}
